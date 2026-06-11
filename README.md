@@ -1,104 +1,80 @@
 <div align="center">
-
-```
-██████╗  █████╗ ███████╗██╗  ██╗███╗   ███╗██╗██╗  ██╗ █████╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║████╗ ████║██║██║ ██╔╝██╔══██╗
-██████╔╝███████║███████╗███████║██╔████╔██║██║█████╔╝ ███████║
-██╔══██╗██╔══██║╚════██║██╔══██║██║╚██╔╝██║██║██╔═██╗ ██╔══██║
-██║  ██║██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║██║  ██╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-**`Computing Student / Java Developer / Android Developer / Game Dev`**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mikaog)
-
+  <h1>Rashmika Kodithuwakkurash</h1>
+  <p>Computing Student &nbsp;·&nbsp; Java Developer &nbsp;·&nbsp; Android Developer &nbsp;·&nbsp; Game Developer</p>
+  <p>
+    <a href="https://linkedin.com/in/yourusername">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=mikaog&style=flat-square&color=6e40c9&label=Profile+Views"/>
+  </p>
 </div>
 
----
+<br/>
 
-```yaml
-name     : Rashmika Kodithuwakkurash
-status   : HND Computing → BSc Data Science (planned)
-focus    : Android · Desktop Apps · Databases · Game Dev
-learning : Machine Learning · Advanced Android · LibGDX
-building : 2D game with LibGDX
-outside  : Music production on FL Studio Mobile
-```
+I build practical software that solves real problems — from Android apps and desktop systems to relational databases and 2D games. Currently pursuing an HND in Computing, with a planned progression into Data Science.
 
----
+<br/>
 
-### TECH STACK
+## Projects
 
-```
-Languages       ████████████████████  Java
-                ███████████████░░░░░  C++
-                ██████████░░░░░░░░░░  SQL
-                █████░░░░░░░░░░░░░░░  JavaScript
+| | Project | Description | Stack |
+|---|---|---|---|
+| 01 | **ArgiLease** | Agricultural equipment leasing platform connecting owners with farmers | Java · DB Systems |
+| 02 | **TechCare Services** | Android app for device repair booking, tracking, and user management | Java · Android · SQLite |
+| 03 | **The Little Book Haven** | Bookstore system with inventory, roles, cashier, and sales management | Java Swing · OOP |
+| 04 | **Furniture Ordering System** | Menu-driven product ordering with modular architecture | C++ · OOP |
+| 05 | **Municipal Service Database** | Relational DB managing citizens, utilities, complaints, and agencies | SQL · ER Modeling |
+| 06 | **LibGDX Game** *(in progress)* | 2D Java game — custom menus, player controls, sprite management | Java · LibGDX |
 
-Mobile          ████████████████████  Android (Native)
-                ████████████████████  Android Studio
-                ██████████████░░░░░░  SQLite / Material Design
+<br/>
 
-Desktop         ████████████████████  Java Swing
-                ████████████████░░░░  Event-Driven / GUI Design
+## Skills
 
-Database        ████████████████████  MySQL
-                ██████████████░░░░░░  SQLite
-                ████████████░░░░░░░░  ER Design / Normalization
+**Languages** &emsp; Java &nbsp;·&nbsp; C++ &nbsp;·&nbsp; SQL &nbsp;·&nbsp; JavaScript
 
-Game Dev        ████████████░░░░░░░░  LibGDX
-                ██████████░░░░░░░░░░  2D / Sprite Animation
+**Mobile** &emsp; Android Studio &nbsp;·&nbsp; Native Android &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; Material Design
 
-SE              ████████████████████  OOP / MVC / UML / SRS
-                ████████████████████  System Analysis & Design
+**Desktop** &emsp; Java Swing &nbsp;·&nbsp; Event-Driven Programming &nbsp;·&nbsp; GUI Design
 
-Networking      ████████████░░░░░░░░  Windows Server / AD / VMware
-```
+**Databases** &emsp; MySQL &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; ER Diagrams &nbsp;·&nbsp; Normalization
 
----
+**Engineering** &emsp; OOP &nbsp;·&nbsp; MVC &nbsp;·&nbsp; UML &nbsp;·&nbsp; SRS &nbsp;·&nbsp; System Analysis
 
-### PROJECTS
+**Game Dev** &emsp; LibGDX &nbsp;·&nbsp; 2D Development &nbsp;·&nbsp; Sprite Animation
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ARGILEASE            Agricultural equipment leasing platform        │
-│                       Java · Database Systems · SE Principles        │
-├─────────────────────────────────────────────────────────────────────┤
-│  TECHCARE SERVICES    Native Android repair booking & tracking app   │
-│                       Java · Android Studio · SQLite · MVC           │
-├─────────────────────────────────────────────────────────────────────┤
-│  THE LITTLE BOOK HAVEN  Bookstore management — inventory · sales     │
-│                         Java Swing · OOP · File Handling             │
-├─────────────────────────────────────────────────────────────────────┤
-│  FURNITURE ORDERING   Menu-driven modular ordering system            │
-│                       C++ · OOP                                      │
-├─────────────────────────────────────────────────────────────────────┤
-│  MUNICIPAL SERVICE DB  Relational DB for city services & utilities   │
-│                        SQL · Database Design · ER Modeling           │
-├─────────────────────────────────────────────────────────────────────┤
-│  LIBGDX GAME  [IN PROGRESS]  2D Java game with custom menus          │
-│                              Java · LibGDX · Sprite Management       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+**Networking** &emsp; Windows Server 2012 &nbsp;·&nbsp; Active Directory &nbsp;·&nbsp; VMware
 
----
+**Tools** &emsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; IntelliJ IDEA &nbsp;·&nbsp; VS Code
 
-### GITHUB STATS
+<br/>
+
+## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaog&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaog&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaog&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=6e40c9&text_color=555555&count_private=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaog&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555" height="160"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikaog&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165"/>
-</div>
+<br/>
+
+## Education
+
+**Higher National Diploma in Computing** — in progress
+Software development · Databases · Networking · Systems Analysis · Software Engineering
+
+**BSc (Hons) Data Science** — planned
+Analytics · Machine Learning · Intelligent Systems
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikaog&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
+  <sub>Currently learning: Machine Learning · Advanced Android · Software Architecture · LibGDX</sub>
 </div>
