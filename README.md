@@ -1,25 +1,38 @@
 <!-- Header -->
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mabhisha%20Rashmika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Android%20Developer%20%7C%20Aspiring%20Data%20Scientist&descSize=14&descAlignY=58&descColor=aaaacc&animation=fadeIn"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=500&lines=Building+Practical+Software+Solutions;Java+%26+Android+Developer;Data+Science+Enthusiast;Learning%2C+Building%2C+Improving+Every+Day)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=500&lines=Building+Practical+Software+Solutions;Java+%26+Android+Developer;Data+Science+Enthusiast;Learning%2C+Building%2C+Improving+Every+Day)](https://git.io/typing-svg)
+
 <br/>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=mikaog&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaog)
+[![Profile Views](https://komarev.com/ghpvc/?username=mikaog&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/mikaog)
+
 </div>
+
 <br/>
+
 <!-- About -->
-About Me
+## About Me
+
 Software Engineering student passionate about building practical software — from Android apps and desktop systems to databases and games. Currently expanding into Data Science, Machine Learning, and modern software architecture.
-🎓  Software Engineering Undergraduate, transitioning into Data Science
-🔭  Currently building a 2D game with LibGDX
-🌱  Learning Machine Learning · Advanced Android · Software Architecture
-🎵  Outside of code — R&B music, production on FL Studio Mobile, and gaming
+
+- 🎓 &nbsp;Software Engineering Undergraduate, transitioning into **Data Science**
+- 🔭 &nbsp;Currently building a **2D game with LibGDX**
+- 🌱 &nbsp;Learning **Machine Learning · Advanced Android · Software Architecture**
+- 🎵 &nbsp;Outside of code — R&B music, production on **FL Studio Mobile**, and gaming
+
 <br/>
+
 <!-- Tech Stack -->
-Tech Stack
+## Tech Stack
+
 <div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,11 +46,16 @@ Tech Stack
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
+
 <br/>
+
 <!-- Projects -->
-Featured Projects
+## Featured Projects
+
 <div align="center">
+
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikaog&repo=argilease&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
@@ -50,8 +68,11 @@ Featured Projects
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikaog&repo=libgdx-game&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
+
 </div>
+
 <br/>
+
 > **ArgiLease** &nbsp;—&nbsp; Property & agricultural equipment rental platform. Java · Database Systems · SE Principles
 >
 > **TechCare Services** &nbsp;—&nbsp; Android app for device repair booking, tracking & profile management. Java · Android · SQLite · MVC
@@ -63,31 +84,49 @@ Featured Projects
 > **Municipal Service Database** &nbsp;—&nbsp; Relational DB for city services, citizens & utilities. SQL · ER Modeling · Normalization
 >
 > **LibGDX Game** *(in progress)* &nbsp;—&nbsp; 2D Java game with custom UI, game states & sprite management. Java · LibGDX
+
 <br/>
+
 <!-- Stats -->
-GitHub Stats
+## GitHub Stats
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=mikaog&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaog&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
+
 </div>
+
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mikaog&theme=midnight-purple&hide_border=true&background=0d1117&stroke=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555577&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+
 </div>
+
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaog&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" />
+
 </div>
+
 <br/>
+
 <!-- Currently Learning -->
-Currently Learning
+## Currently Learning
+
 <div align="center">
+
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logoColor=white)
 ![Advanced Java](https://img.shields.io/badge/Advanced_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android Architecture](https://img.shields.io/badge/Android_Architecture-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-7c3aed?style=flat-square&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-E83E2C?style=flat-square&logoColor=white)
+
 </div>
+
 <br/>
+
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
